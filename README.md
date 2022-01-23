@@ -239,7 +239,8 @@ button{
 
 ## OUTPUT:
 
-![output](canvas.png)
+![output](canvas.png)![canvas](https://user-images.githubusercontent.com/93509383/150683297-d6cd5491-e3a8-4731-b04a-8c97a3f9dd7f.png)
+
 
 ## Result:
 
