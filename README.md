@@ -240,7 +240,8 @@ button{
 ## OUTPUT:
 
 BLANK CANVAS:
-![canvas1](https://user-images.githubusercontent.com/93509383/150690844-b132dc69-18d4-43d3-85cf-a8fa4dfcb1ce.png)
+![canvas1](https://user-images.githubusercontent.com/93509383/150691209-1562e82c-4ca7-439a-b1bc-d406693d3400.png)
+
 
 SIZE CHANGE:
 ![canvas2](https://user-images.githubusercontent.com/93509383/150690856-cf5b0e72-25f6-4917-9bfb-30f207ca1beb.png)
