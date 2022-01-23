@@ -240,13 +240,14 @@ button{
 ## OUTPUT:
 
 BLANK CANVAS:
-![canvas](https://user-images.githubusercontent.com/93509383/150690827-451d88c6-840f-443e-8a60-55d39f99d898.png)
-
-SIZE CHANGE:
 ![canvas1](https://user-images.githubusercontent.com/93509383/150690844-b132dc69-18d4-43d3-85cf-a8fa4dfcb1ce.png)
 
-DRAWN CANVAS:
+SIZE CHANGE:
 ![canvas2](https://user-images.githubusercontent.com/93509383/150690856-cf5b0e72-25f6-4917-9bfb-30f207ca1beb.png)
+
+DRAWN CANVAS:
+
+![canvas](https://user-images.githubusercontent.com/93509383/150690827-451d88c6-840f-443e-8a60-55d39f99d898.png)
 
 
 
